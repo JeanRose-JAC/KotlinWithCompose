@@ -18,7 +18,7 @@ class MyViewModel : ViewModel() {
 //    private var allNames: MutableSet<String> = mutableSetOf()
 
     init {
-        resetState() //idk
+        resetState //idk
     }
 
     /*
